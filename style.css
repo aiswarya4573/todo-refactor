@@ -16,14 +16,14 @@ body {
 .todo-app-container {
   min-height: 100vh;
   padding: 10px;
-  background: #f3f4f6;
+  background: #f5f3f6;
 }
 
 .todo-app {
   margin: auto;
   margin-top: 30px;
   padding: 2rem;
-  background: rgb(212, 212, 212);
+  background: rgb(230, 219, 229);
   border-radius: 0.25rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -34,7 +34,7 @@ body {
 h2 {
   font-size: 24px;
   font-weight: bold;
-  color: #626060;
+  color: #85508d;
 }
 
 .todo-input {
@@ -55,8 +55,9 @@ h2 {
   justify-content: space-between;
   align-items: center;
   margin-top: 24px;
-  background-color: #f3f4f6;
+  background-color: #bea4c8;
   padding: 10px;
+  color: #58285f;
 }
 
 .todo-item {
@@ -126,7 +127,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #6b7280;
+  color: #884e8f;
   margin-top: 22px;
   padding-top: 16px;
   border-top: 1px solid lightgray;
